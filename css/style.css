@@ -13,7 +13,7 @@ body {
 }
 
 .content {
-    width: 730px;
+    width: 35%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -37,7 +37,7 @@ body {
 }
 
 .row {
-    width: 300px;
+    width: 45%;
     height: 50px;
     background-color: #E7E9FE;
     margin: 10px;
@@ -55,14 +55,14 @@ body {
 }
 
 .row_address {
-    width: 620px;
+    width: 93%;
     height: 50px;
     margin: 10px;
     background-color: #C7CDFD;
 }
 
 .textarea {
-    width: 620px;
+    width: 93%;
     resize: none;
     background-color: #A5B1FD;
     margin-top: 15px;
